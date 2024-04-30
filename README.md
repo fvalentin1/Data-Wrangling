@@ -101,14 +101,14 @@ py -m pip install matplotlib
 
 Descomprimir el notebook y abrir una terminal cambiando el directorio de trabajo actual a la ubicación en donde se encuentra nuestro notebook "Main.ipynb".
 ```bash
-cd Tarea2-TPCD
+cd Data-Wrangling-TCPD
 ```
 
 O clonar el repositorio a través del comando [git clone](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository).
 ```bash
 git clone https://github.com/fvalentin1/Data-Wrangling-TCPD.git
 
-cd Tarea2-TPCD
+cd Data-Wrangling-TCPD
 ```
 Luego debemos ejecutar la aplicación Jupyter Notebook
 ```bash
